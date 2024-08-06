@@ -137,6 +137,7 @@ body {
     font-size: 35px;
     padding-top: 40px;
 }
+
 @media(max-width:520px){
     .search-input {
         padding: 10px 15px;
