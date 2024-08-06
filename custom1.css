@@ -137,3 +137,23 @@ body {
     font-size: 35px;
     padding-top: 40px;
 }
+@media(max-width:520px){
+    .search-input {
+        padding: 10px 15px;
+        height: 50px;
+        border-radius: 30px;
+        flex: 1;
+        margin-right: 30px;
+        font-size: 15px;
+    }
+
+    .search-Btn {
+        width: 60px;
+        height: 55px;
+    }
+}
+@media(max-width:420px){
+    .search-input {
+        width: 100px;
+    }
+}
